@@ -1,9 +1,12 @@
 VERSION = 3
 PATCHLEVEL = 10
 <<<<<<< HEAD
+<<<<<<< HEAD
 SUBLEVEL = 29
 EXTRAVERSION =-R1
 =======
+=======
+>>>>>>> b60d0a8e... upgrade to 3.10.30
 SUBLEVEL = 30
 EXTRAVERSION =
 >>>>>>> b60d0a8e... upgrade to 3.10.30

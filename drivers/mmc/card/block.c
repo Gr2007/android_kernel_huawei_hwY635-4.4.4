@@ -2936,8 +2936,12 @@ static int mmc_blk_issue_rq(struct mmc_queue *mq, struct request *req)
 		else
 			ret = mmc_blk_issue_discard_rq(mq, req);
 <<<<<<< HEAD
+<<<<<<< HEAD
 #endif
 	} else if (req && req->cmd_flags & REQ_FLUSH) {
+=======
+	} else if (cmd_flags & REQ_FLUSH) {
+>>>>>>> b60d0a8e... upgrade to 3.10.30
 =======
 	} else if (cmd_flags & REQ_FLUSH) {
 >>>>>>> b60d0a8e... upgrade to 3.10.30
