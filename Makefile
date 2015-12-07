@@ -1,7 +1,12 @@
 VERSION = 3
 PATCHLEVEL = 10
+<<<<<<< HEAD
 SUBLEVEL = 29
 EXTRAVERSION =-R1
+=======
+SUBLEVEL = 30
+EXTRAVERSION =
+>>>>>>> b60d0a8e... upgrade to 3.10.30
 NAME = TOSSUG Baby Fish
 
 # *DOCUMENTATION*
