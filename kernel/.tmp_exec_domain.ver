@@ -1,0 +1,3 @@
+__crc_register_exec_domain = 0xc0c13962 ;
+__crc_unregister_exec_domain = 0x47e9b582 ;
+__crc___set_personality = 0x77df0847 ;

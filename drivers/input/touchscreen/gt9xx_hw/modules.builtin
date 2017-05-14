@@ -1,0 +1,4 @@
+kernel/drivers/input/touchscreen/gt9xx_hw/gt9xx.ko
+kernel/drivers/input/touchscreen/gt9xx_hw/gt9xx_update.ko
+kernel/drivers/input/touchscreen/gt9xx_hw/goodix_tool.ko
+kernel/drivers/input/touchscreen/gt9xx_hw/gt9xx_openshort.ko

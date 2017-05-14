@@ -1,0 +1,3 @@
+kernel/drivers/net/wireless/wlan_feature.ko
+kernel/drivers/net/wireless/wcnss/wcnsscore.ko
+kernel/drivers/net/wireless/wcnss/wcnss_prealloc.ko

@@ -1,1 +1,1 @@
-#define UTS_RELEASE "3.10.29-R1-KISS-Gr2"
+#define UTS_RELEASE "3.10.29-KISS-Gr2-g52af0cf-dirty"

@@ -1,0 +1,2 @@
+kernel/drivers/input/touchscreen/mstar/msg2138_qc.ko
+kernel/drivers/input/touchscreen/mstar/msg2138_scap_test.ko

@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 10
 SUBLEVEL = 29
-EXTRAVERSION =-R1
+EXTRAVERSION =
 NAME = TOSSUG Baby Fish
 
 # *DOCUMENTATION*
@@ -388,6 +388,8 @@ KBUILD_CFLAGS   := -Wall -Wundef -Wstrict-prototypes -Wno-trigraphs \
 		   -Werror-implicit-function-declaration \
 		   -Wno-format-security \
 		   -Wno-bool-compare \
+		   -Wno-nonnull \
+ 		   -Wno-unused-const-variable \
 		   -fno-delete-null-pointer-checks \
 		   -std=gnu89 \
 		   -fno-aggressive-loop-optimizations

@@ -1,0 +1,3 @@
+kernel/drivers/input/touchscreen/focaltech/ft6x06_ex_fun.ko
+kernel/drivers/input/touchscreen/focaltech/ft6x06_sysdebug.ko
+kernel/drivers/input/touchscreen/focaltech/ft6x06_ts.ko

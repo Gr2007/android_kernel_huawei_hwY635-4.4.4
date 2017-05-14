@@ -1,7 +1,7 @@
 /*
  *
  * Automatically generated file; DO NOT EDIT.
- * Linux/arm 3.10.29-R1 Kernel Configuration
+ * Linux/arm 3.10.29 Kernel Configuration
  *
  */
 #define CONFIG_RING_BUFFER 1
